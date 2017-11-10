@@ -3,7 +3,7 @@
 
 int main()
 {
-	int i = 5;
+	int i = 7;
 
 	printf("hello %d\r\n",i);
 }
